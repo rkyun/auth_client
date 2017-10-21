@@ -10,7 +10,7 @@ class Header extends Component {
       return [
         
           <li className="nav-item" key={1}>
-            <Link to='/features' >Features</Link>
+            <Link to='/feature' >Feature</Link>
           </li>,
           <li className="nav-item" key={2}>
             <Link to='/signout' >Sign Out</Link>
